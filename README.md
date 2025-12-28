@@ -10,11 +10,11 @@ what i've been up to over winter break (dec 2025 - jan 2026)
 
 12/27/2025 - focused on linked lists. attempted Merge Two Sorted Lists and Reverse Linked List. a key point of linked lists is that if you attach 1 node from a diff list, all the subsequent nodes of that list are also appended. for Reverse Linked List, think of this q as tacking nodes to front of list, rather than appending to end. reattempted Valid Parentheses. missed the edge case where there's extra closing brackets at the end after the stack is empty (being there's an error if you try to access stack[-1]). overall much better understanding. did CodingBat's Warmup-2 and Logic-1.
 
-12/26/2025 - reattempted Valid Parentheses. needed quite a bit of help. learned about negative indexing, list operations (append, pop), and how to access elements of dictionaries ("for bracket in brackets" checks keys, for example). more on for-loops too. did CodingBat's Python Warmup-1 and Warmup-2 to practice basics.
+12/26/2025 - reattempted Valid Parentheses. needed quite a bit of help. learned about negative indexing, list operations (append, pop), and how to access elements of dictionaries ("for bracket in brackets" checks keys, for example). more on for-loops too. did CodingBat's Python Warmup-1 and Warmup-2 to practice basics. finished Big O section through DSA course on Udemy, a good review.
 
-12/25/2025 - merry christmas
+12/25/2025 - merry christmas!! started Big O section through DSA Udemy course
 
-12/24/2025 - solved Contains Duplicate. really beautiful one-line solution that harnesses properties of sets vs lists
+12/24/2025 - solved Contains Duplicate. really beautiful one-line solution that harnesses properties of sets vs lists. joined DSA Udemy course.
 
 12/23/2025 - solved Missing Number. no trouble.
 
