@@ -1,5 +1,5 @@
 # winter-breakpoint
-what i've been up to over winter break (dec 2025 - jan 2026
+what i've been up to over winter break (dec 2025 - jan 2026)
 
 ## note to self:
 - make this into a real html file
