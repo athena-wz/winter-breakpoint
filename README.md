@@ -4,6 +4,8 @@ what i've been up to over winter break (dec 2025 - jan 2026)
 ## note to self:
 - make this into a real html file
 - two column set up. "reattempted Valid Parentheses" in left column. details in right column. like cornell notes.
+- goals page
+- pages for non cs stuff
 
 ## what i've been doing
 12/28/2025 - did CodingBat's Logic-1. squirrels smoking cigars is a funny image. ternary operators are really cool
