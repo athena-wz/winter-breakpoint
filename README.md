@@ -2,7 +2,7 @@
 what i've been up to over winter break (dec 2025 - jan 2026)
 
 ## what i've been doing
-12/29/2025 - finished coding interview overview section of DSA course. recorded a mock interview of myself attempting a leetcode problem. solved some of Logic-2 in CodingBat
+12/29/2025 - finished coding interview overview section of DSA course. recorded a mock interview of myself attempting a leetcode problem. solved some of Logic-2 in CodingBat. re-solved Merge Two Sorted Lists, got it in 1/3 of the time it took me on 12/27. you don't need new variables to track where you are in each list; you can just use the existing list names directly because you don't need the original lists themselves for anything else later.
 
 12/28/2025 - did CodingBat's Logic-1. squirrels smoking cigars is a funny image. ternary operators are really cool. for Leetcode, did Valid Anagram, Valid Palindrome, Best Time to Buy and Sell Stock
 
