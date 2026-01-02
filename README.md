@@ -2,6 +2,7 @@
 what i've been up to over winter break (dec 2025 - jan 2026)
 
 ## what i've been doing
+01/02/2026 - solved leetcode binary search. did both the recursive and while loop method. need to remember to do mid + 1 or mid - 1 rather than just mid. attempted Flood Fill but i think i need to solidify my understanding of DFS algos before i go back to that problem
 
 01/01/2026 - happy new year!! solved Invert Binary Tree. good intuition for variable swapping + recursion. also completed codingbat String-1, String-2, List-1, List-2 exercises. officially done codingbat python!!
 
