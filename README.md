@@ -3,7 +3,7 @@ what i've been up to over winter break (dec 2025 - jan 2026)
 
 ## what i've been doing
 
-01/01/2026 - happy new year!! solved Invert Binary Tree. good intuition for variable swapping + recursion. also completed codingbat String-1 and String-2 exercises.
+01/01/2026 - happy new year!! solved Invert Binary Tree. good intuition for variable swapping + recursion. also completed codingbat String-1, String-2, List-1, List-2 exercises. officially done codingbat python!!
 
 12/31/2025 - reattempted Climbing Stairs. if you're calling a function within itself, you need to use .self. will redo again in the future as i need to solidify the syntax
 
